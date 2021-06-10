@@ -12,7 +12,7 @@ export default function About() {
         progress on Social Networks{" "}
         <strong>
           <a
-            href="https://badge.gcrfsstc.study"
+            href="https://bit.ly/gcr-badge"
             style={{
               textDecoration: "none",
               backgroundColor: "#EA4335",
@@ -26,7 +26,7 @@ export default function About() {
       </p>
       <p className="info">
         This website is only for students enrolled in Google Cloud Ready
-        Facilitator Program under Shri Shankaracharya Technical Campus, Bhilai.
+        Facilitator Program under Padmabhushan Vasantdada Patil Pratishthan's College of Engineering.
         <br />
         <br />
         If you find any error in the result, please contact the Facilitators.
@@ -40,9 +40,9 @@ export default function About() {
         <a
           rel="noreferrer noopener"
           target="_blank"
-          href="https://www.linkedin.com/in/ashishchawda/"
+          href="https://www.linkedin.com/in/durgacharan-nayak/"
           style={{ textDecoration: "none", color: "#EA4335" }}>
-          Ashish Chawda
+          Durgacharan Nayak
         </a>
       </p>
       <p className="social">
@@ -50,28 +50,28 @@ export default function About() {
           rel="noreferrer noopener"
           className="social-link github"
           target="_blank"
-          href="https://github.com/pixan198">
+          href="https://github.com/durgacharannayak">
           <GitHubIcon className="social-link-github" fontSize="large" />
         </a>
         <a
           rel="noreferrer noopener"
           className="social-link linkedin"
           target="_blank"
-          href="https://www.linkedin.com/in/ashishchawda/">
+          href="https://www.linkedin.com/in/durgcharan-nayak/">
           <LinkedInIcon className="social-link-linkedin" fontSize="large" />
         </a>
         <a
           rel="noreferrer noopener"
           className="social-link twitter"
           target="_blank"
-          href="https://twitter.com/ashish11chawda">
+          href="https://twitter.com/DurgacharanNa12">
           <TwitterIcon className="social-link-twitter" fontSize="large" />
         </a>
         <a
           rel="noreferrer noopener"
           className="social-link instagram"
           target="_blank"
-          href="https://www.instagram.com/_tachyon._">
+          href="https://www.instagram.com/durgacharannayak">
           <InstagramIcon className="social-link-instagram" fontSize="large" />
         </a>
       </p>

@@ -47,7 +47,7 @@ function FindStatusbyURL() {
         PrintStatus(user);
       }
       else{
-        alert("Enter valid Public Profile URL or you're not registered under SSTC, Bhilai");
+        alert("Enter valid Public Profile URL or you're not registered under PVPPCOE");
       }
     });
 }
@@ -61,7 +61,7 @@ function FindStatusbyEmail() {
         PrintStatus(user);
       }
       else{
-        alert("Enter valid Email or you're not registered under SSTC, Bhilai");
+        alert("Enter valid Email or you're not registered under PVPPCOE");
       }
     });
 }
