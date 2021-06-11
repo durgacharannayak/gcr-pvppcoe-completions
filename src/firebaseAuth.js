@@ -38,7 +38,7 @@ export function SignIn() {
       if(user.length === 1){
       }
       else{
-        alert("Log in with your registered Email or you're not registered under SSTC, Bhilai");
+        alert("Log in with your registered Email or you're not registered under PVPPCOE");
         auth.signOut();
       }
     });
