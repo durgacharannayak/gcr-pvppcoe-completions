@@ -34,6 +34,9 @@ export default function About() {
         <br />
         This project is not endorsed and/or supported by Google, the
         corporation.
+        <br />
+        <br />
+        Special thanks to <a href="https://www.linkedin.com/in/ashishchawda/">Ashish Chawda</a> for helping the PVPPCOE Facilitators team in building the website.
       </p>
       <p className="credit">
         <strong>&lt;/&gt;</strong> with &#10084;&#65039; by &nbsp;
@@ -57,7 +60,7 @@ export default function About() {
           rel="noreferrer noopener"
           className="social-link linkedin"
           target="_blank"
-          href="https://www.linkedin.com/in/durgcharan-nayak/">
+          href="https://www.linkedin.com/in/durgacharan-nayak/">
           <LinkedInIcon className="social-link-linkedin" fontSize="large" />
         </a>
         <a
