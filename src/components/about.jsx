@@ -36,7 +36,8 @@ export default function About() {
         corporation.
         <br />
         <br />
-        Special thanks to <a href="https://www.linkedin.com/in/ashishchawda/">Ashish Chawda</a> for helping the PVPPCOE Facilitators team in building the website.
+        Special thanks to <a href="https://www.linkedin.com/in/ashishchawda/">Ashish Chawda </a>  
+    for helping the PVPPCOE Facilitators team in building the website.
       </p>
       <p className="credit">
         <strong>&lt;/&gt;</strong> with &#10084;&#65039; by &nbsp;
