@@ -58,6 +58,15 @@ export default function Header() {
               startIcon={<LanguageIcon />}>
               Website
             </Button>
+            <Button
+              variant="outlined"
+              color="primary"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://t.me/gcrpvppcoe"
+              startIcon={<LanguageIcon />}>
+              Telegram
+            </Button>
           </div>
         </Toolbar>
       </AppBar>
